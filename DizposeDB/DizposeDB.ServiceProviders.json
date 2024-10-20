@@ -1,0 +1,38 @@
+[{
+  "_id": {
+    "$oid": "670cff3d37973c67f7c46bf2"
+  },
+  "id": "01ef8a1e-c3c6-19ce-9713-83eac678a39b",
+  "name": "Eco Waste Collectors",
+  "email": "buddhigayanmaleesha2000@gmail.com",
+  "password": "30mE2I4R5AA6PntAEXIOrkSUqubQcPkDDl7KRSN5bvM=",
+  "phone": "0779648112",
+  "address": "123 Main St, Springfield, USA",
+  "servicesOffered": [
+    "ELECTRONICS",
+    "FURNITURE",
+    "HAZARDOUS"
+  ],
+  "location": [
+    -93.105,
+    44.805
+  ]
+},
+{
+  "_id": {
+    "$oid": "670d0d5408850253c06d4db7"
+  },
+  "id": "01ef8a27-29b7-1226-af0b-d59f1166d403",
+  "name": "Recycle Buddy",
+  "email": "abc@gmail.com",
+  "password": "30mE2I4R5AA6PntAEXIOrkSUqubQcPkDDl7KRSN5bvM=",
+  "phone": "0779648113",
+  "address": "123 Main St, Springfield, USA",
+  "servicesOffered": [
+    "ELECTRONICS"
+  ],
+  "location": [
+    -93.106,
+    44.8053
+  ]
+}]

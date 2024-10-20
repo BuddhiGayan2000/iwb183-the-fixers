@@ -1,0 +1,171 @@
+[{
+  "_id": {
+    "$oid": "670d60113be6497439b94665"
+  },
+  "id": "01ef8a58-7a93-13e8-8032-2ce966aad205",
+  "wasteType": "PLASTIC",
+  "description": "Plastic containers and bags",
+  "size": "SMALL",
+  "userId": "01ef8643-87bc-1c1e-8b62-2f6fad7fdf8e",
+  "status": "PENDING",
+  "location": [
+    -93.3923,
+    45.074
+  ],
+  "address": "moratuwa, katubedda"
+},
+{
+  "_id": {
+    "$oid": "670d605c3be6497439b94666"
+  },
+  "id": "01ef8a58-a747-1566-88c8-70972ff4c4ec",
+  "wasteType": "PLASTIC",
+  "description": "Plastic bottles and containers",
+  "size": "SMALL",
+  "userId": "01ef8643-87bc-1c1e-8b62-2f6fad7fdf8e",
+  "status": "PENDING",
+  "location": [
+    -93.292,
+    44.9335
+  ]
+},
+{
+  "_id": {
+    "$oid": "670d60623be6497439b94667"
+  },
+  "id": "01ef8a58-aada-1dd6-b178-5337e0408806",
+  "wasteType": "FURNITURE",
+  "description": "Old wooden furniture",
+  "size": "LARGE",
+  "userId": "01ef8643-87bc-1c1e-8b62-2f6fad7fdf8e",
+  "status": "COMPLETED",
+  "location": [
+    -93.2923,
+    44.974
+  ],
+  "address": "test address",
+  "scheduledDate": "2024-10-19",
+  "serviceProviderId": "01ef8a1e-c3c6-19ce-9713-83eac678a39b",
+  "completedDate": "2024-10-19T13:26:31.033128600Z"
+},
+{
+  "_id": {
+    "$oid": "670d606d3be6497439b94668"
+  },
+  "id": "01ef8a58-b169-154e-a6de-4de0dfbbff8c",
+  "wasteType": "ELECTRONICS",
+  "description": "Broken television and radio",
+  "size": "MEDIUM",
+  "userId": "01ef8643-87bc-1c1e-8b62-2f6fad7fdf8e",
+  "status": "SCHEDULED",
+  "location": [
+    -73.97,
+    40.77
+  ],
+  "scheduledDate": "2024-10-12",
+  "serviceProviderId": "01ef8a1e-c3c6-19ce-9713-83eac678a39b"
+},
+{
+  "_id": {
+    "$oid": "670d608b3be6497439b94669"
+  },
+  "id": "01ef8a58-c34a-1f78-8b6f-6b3cdfc6042a",
+  "wasteType": "METAL",
+  "description": "Chemical waste",
+  "size": "SMALL",
+  "userId": "01ef8643-87bc-1c1e-8b62-2f6fad7fdf8e",
+  "status": "COMPLETED",
+  "location": [
+    -73.9928,
+    40.7193
+  ],
+  "scheduledDate": "2024-10-12",
+  "serviceProviderId": "01ef8a1e-c3c6-19ce-9713-83eac678a39b",
+  "completedDate": "2024-10-14T18:37:41.689058600Z"
+},
+{
+  "_id": {
+    "$oid": "670d60933be6497439b9466a"
+  },
+  "id": "01ef8a58-c80f-1ab8-88a8-cb963806350d",
+  "wasteType": "ORGANIC",
+  "description": "Garden waste and leaves",
+  "size": "LARGE",
+  "userId": "01ef8643-87bc-1c1e-8b62-2f6fad7fdf8e",
+  "status": "PENDING",
+  "location": [
+    -73.9375,
+    40.8303
+  ]
+},
+{
+  "_id": {
+    "$oid": "67141c72e4fdcc3319d51afa"
+  },
+  "id": "01ef8e5c-49ea-1450-9003-48c3b95857c1",
+  "wasteType": "PLASTIC",
+  "description": "Small plastic chair set, 6 chairs",
+  "size": "MEDIUM",
+  "userId": "01ef8e44-84e0-17ee-b7be-8a4964980286",
+  "status": "COMPLETED",
+  "location": [
+    79.9022592,
+    6.7956898
+  ],
+  "address": "University of Moratuwa, Moratuwa 10400, Sri Lanka",
+  "completedDate": "2024-10-14T18:37:41.689058600Z",
+  "scheduledDate": "2024-10-12",
+  "serviceProviderId": "01ef8a1e-c3c6-19ce-9713-83eac678a39b"
+},
+{
+  "_id": {
+    "$oid": "67141db5e4fdcc3319d51afb"
+  },
+  "id": "01ef8e5d-0a70-128e-810c-f57aa5bb3110",
+  "wasteType": "ELECTRONICS",
+  "description": "Old TV 32\"",
+  "size": "MEDIUM",
+  "userId": "01ef8e44-84e0-17ee-b7be-8a4964980286",
+  "status": "PENDING",
+  "location": [
+    79.9010784,
+    6.7922385
+  ],
+  "address": "Molpe, Moratuwa, Sri Lanka"
+},
+{
+  "_id": {
+    "$oid": "67141eb1d9e3a9289b491b54"
+  },
+  "id": "01ef8e5d-a0a4-14ee-a5f6-07e7b6dce2e6",
+  "wasteType": "METAL",
+  "description": "Metal bars",
+  "size": "SMALL",
+  "userId": "01ef8e44-84e0-17ee-b7be-8a4964980286",
+  "status": "SCHEDULED",
+  "location": [
+    79.9019507,
+    6.7924126
+  ],
+  "address": "Sobhitha Vidyala Mawatha, Moratuwa, Sri Lanka",
+  "createdDate": "2024-10-19T21:03:44.183Z",
+  "scheduledDate": "2024-10-23",
+  "serviceProviderId": "01ef8a1e-c3c6-19ce-9713-83eac678a39b"
+},
+{
+  "_id": {
+    "$oid": "671495f7d5367329f49c2443"
+  },
+  "id": "01ef8ea4-b852-1f5e-9035-31b08d278d9c",
+  "wasteType": "ELECTRONICS",
+  "description": "Bunch of old TVs",
+  "size": "LARGE",
+  "userId": "01ef8e44-84e0-17ee-b7be-8a4964980286",
+  "status": "PENDING",
+  "location": [
+    79.8996789,
+    6.8014572
+  ],
+  "address": "167, soyisapura, katubedda",
+  "createdDate": "2024-10-20T05:32:37.079Z"
+}]

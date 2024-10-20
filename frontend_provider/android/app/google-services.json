@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "760358267379",
+    "project_id": "dizpose-dd1c7",
+    "storage_bucket": "dizpose-dd1c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760358267379:android:b4846c5390d55043760a86",
+        "android_client_info": {
+          "package_name": "com.frontend_provider"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeulfM2uDLT8AtbZvAzYj8N8VK5mxATRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

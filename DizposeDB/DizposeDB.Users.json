@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "670686ef22693e2a50ce651e"
+  },
+  "id": "01ef8643-87bc-1c1e-8b62-2f6fad7fdf8e",
+  "name": "Buddhi Gayan Maleesha",
+  "email": "buddhion2k@gmail.com",
+  "phone": "0779648111",
+  "password": "30mE2I4R5AA6PntAEXIOrkSUqubQcPkDDl7KRSN5bvM=",
+  "address": "123 Main St, Springfield, USA"
+},
+{
+  "_id": {
+    "$oid": "6713f491e8ed040399185973"
+  },
+  "id": "01ef8e44-84e0-17ee-b7be-8a4964980286",
+  "name": "abc",
+  "email": "abc@gmail.com",
+  "phone": "0779648111",
+  "password": "30mE2I4R5AA6PntAEXIOrkSUqubQcPkDDl7KRSN5bvM=",
+  "address": "aaaaaaaaaaaaaaa"
+}]
